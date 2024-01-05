@@ -1,5 +1,5 @@
 # tourney
-Web app to support tournament events management.
+Web app to support tournament events management. Main user initially event organizers, secondary user: participant, tertiary user: referee.
 
 **Tech TBD**: 
 - PostGreSQL or MySQL?
